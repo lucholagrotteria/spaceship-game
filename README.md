@@ -1,5 +1,8 @@
-# first-game
+<h1>Spaceship game</h1>
 
-Juego de naves espaciales con la librería de Python, Pygame. 
-Se incluyen métodos básicos de esta librería como efectos de sonido, imágenes, objetos en movimiento y colisiones.
-Además agregué comentarios para que se sepa exactamente lo que se hace en cada línea.
+<h2>Description</h2>
+<ul>
+  <li>Spacecraft game using the Python library Pygame.</li>
+  <li>Basic methods of this library are included, such as sound effects, images, moving objects, and collisions.</li>
+  <li>Comments have been added to provide a clear understanding of each line's purpose.</li>
+</ul>
